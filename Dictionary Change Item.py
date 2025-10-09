@@ -1,0 +1,22 @@
+Fruits={
+    'apple':{
+        'Maria':1,
+        'Shila':2,
+        'Depika':3,
+        'Halim':1
+    },
+ 'sells':{
+     'Banglabazar':'Dipok',
+     'Notunbazar':'Kalua',
+     'Borobazar':'Shabab',
+     'Massbazar':'Tanki',
+     'Cotobazar':'Faranki'
+ }
+}
+Fruits['sells']='Krish'
+print(Fruits['sells'])
+print(Fruits)
+
+j=[3,4,5,5,6,67,77,8,6]
+j[1]=64647
+print(j[1])
