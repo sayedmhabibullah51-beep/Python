@@ -16,7 +16,7 @@ Fruits={
 Fruits['sells']='Krish'
 Fruits['Maria']=88558
 print(Fruits['sells'])
-print(Fruits['Maria'])
+
 print(Fruits)
 
 j=[3,4,5,5,6,67,77,8,6]
