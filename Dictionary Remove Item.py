@@ -11,9 +11,11 @@ Studentinfo={
         'Number': 12348599959684,
         'House Number': 49585848,
     },
-    'Year':2018
+    'Year':2020
+
 }
 Studentinfo.pop('Shanto')
 print(Studentinfo)
 Studentinfo.popitem()  # Remove the last item from the dictionary
 print(Studentinfo)
+
