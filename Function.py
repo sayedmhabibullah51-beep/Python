@@ -1,5 +1,6 @@
 def addition(a,b,l):
     sum= a+b,l
+    print(sum)
 addition(6,6,8787)
 addition(66,7,8776)
 addition(597,6778,776)
