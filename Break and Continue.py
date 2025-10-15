@@ -12,6 +12,6 @@ for i in Name:
 
 Name=['Shanto', 'Prodip', 'Pranto', 'Apple', 'Avocado', 'Strawbery']
 for b in Name:
-    if d=='Apple':
+    if b=='Apple':
         continue
     print(b)
